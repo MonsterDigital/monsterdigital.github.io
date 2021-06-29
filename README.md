@@ -7,7 +7,7 @@ Un Host alternativo para poder instalar el HEN Original de http://ps3xploit.com/
 
 ### En qué consolas y firmwares funciona:
 
-Esta versión de HEN és compatible con todoas las consolas PS3 (Todos los modelos) ya sea FAT/SLIM/SUPER SLIM en el firmwares híbrido HFW 4.87 y 4.88
+Esta versión de HEN és compatible con todoas las consolas PS3 (Todos los modelos) ya sea FAT/SLIM/SUPER SLIM en el firmware híbrido 4.88
 
 ### Como usarlo:
 
